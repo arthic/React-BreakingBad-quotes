@@ -1,8 +1,10 @@
-##Buscador de citas - Breaking Bad
+# Buscador de citas - Breaking Bad
 
-### Caracteristicas
-- React
-+ Custom Hooks:
- + useEffect
- + useRef
- + useState
+###  Caracteristicas
+
+ + Consumo de datos API REST https://www.breakingbadapi.com
+ + React
+ + Custom Hooks:
+   + useEffect
+   + useRef
+   + useState
